@@ -20,11 +20,11 @@ jobs:
         with:
           python-version: '3.8'
 
-      # Install dependencies
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+#      # Install dependencies
+#      - name: Install dependencies
+#        run: |
+#          python -m pip install --upgrade pip
+#          pip install -r requirements.txt
 
       # Run unit tests
       - name: Run tests
