@@ -1,3 +1,3 @@
 # src/main.py
 
-print("Welcome to DueMate!")
+print("Welcoqme to DueMate!")
